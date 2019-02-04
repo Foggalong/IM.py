@@ -1,0 +1,7 @@
+# data files
+#data/
+status.gif
+
+# editor files
+*.swp
+*.old
